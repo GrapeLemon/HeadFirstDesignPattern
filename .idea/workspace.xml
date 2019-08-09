@@ -2,21 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2f74400-b090-4571-9add-30c3459e8891" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HeadFirstDesignPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/principle/MiniDuckSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/principle/bean/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/principle/bean/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/principle/bean/ModelDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/principle/bean/MuteQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/principle/bean/RedheadDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/principle/behavior/FlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/principle/behavior/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/principle/behavior/FlyRocketPowered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/principle/behavior/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/principle/behavior/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/principle/behavior/QuackBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/principle/behavior/Squeak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_01_strategy/bean/SubDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_02_Observer/WeatherData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/principle/MiniDuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_strategy/MiniDuckSimulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/principle/bean/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_strategy/bean/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/principle/bean/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_strategy/bean/MallardDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/principle/bean/ModelDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_strategy/bean/ModelDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/principle/bean/MuteQuack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_strategy/bean/MuteQuack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/principle/bean/RedheadDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_strategy/bean/RedheadDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/principle/behavior/FlyBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_strategy/behavior/FlyBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/principle/behavior/FlyNoWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_strategy/behavior/FlyNoWay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/principle/behavior/FlyRocketPowered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_strategy/behavior/FlyRocketPowered.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/principle/behavior/FlyWithWings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_strategy/behavior/FlyWithWings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/principle/behavior/Quack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_strategy/behavior/Quack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/principle/behavior/QuackBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_strategy/behavior/QuackBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/principle/behavior/Squeak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_strategy/behavior/Squeak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/principle/MiniDuckSimulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/principle/bean/Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/principle/bean/MallardDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/principle/bean/ModelDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/principle/bean/MuteQuack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/principle/bean/RedheadDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/principle/behavior/FlyBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/principle/behavior/FlyNoWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/principle/behavior/FlyRocketPowered.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/principle/behavior/FlyWithWings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/principle/behavior/Quack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/principle/behavior/QuackBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/principle/behavior/Squeak.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,12 +50,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/principle/MiniDuckSimulator.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_01_strategy/bean/SubDuck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="125">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,28 +64,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/principle/bean/Duck.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_01_strategy/bean/Duck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="575">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
-                <element signature="e#464#465#0" expanded="true" />
+                <element signature="e#625#626#0" expanded="true" />
+                <element signature="e#671#672#0" expanded="true" />
+                <element signature="e#736#737#0" expanded="true" />
+                <element signature="e#786#787#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/principle/bean/MallardDuck.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_02_Observer/WeatherData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+            <state relative-caret-position="25">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_01_strategy/behavior/QuackBehavior.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_01_strategy/bean/MallardDuck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#154#155#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_01_strategy/bean/ModelDuck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -122,11 +166,13 @@
         <option value="$PROJECT_DIR$/src/main/java/principle/behavior/MuteQuack.java" />
         <option value="$PROJECT_DIR$/src/main/java/principle/behavior/Squeak.java" />
         <option value="$PROJECT_DIR$/src/main/java/principle/behavior/ModelDuck.java" />
-        <option value="$PROJECT_DIR$/src/main/java/principle/bean/Duck.java" />
         <option value="$PROJECT_DIR$/src/main/java/principle/bean/ModelDuck.java" />
         <option value="$PROJECT_DIR$/src/main/java/principle/behavior/FlyRocketPowered.java" />
         <option value="$PROJECT_DIR$/src/main/java/principle/MiniDuckSimulator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/principle/bean/SubDuck.java" />
         <option value="$PROJECT_DIR$/src/main/java/principle/bean/MallardDuck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/principle/bean/Duck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_01_strategy/bean/Duck.java" />
       </list>
     </option>
   </component>
@@ -135,14 +181,6 @@
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
@@ -159,7 +197,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -186,40 +223,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LearnDesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HeadFirstDesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnDesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HeadFirstDesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnDesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HeadFirstDesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
-              <item name="behavior" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.195" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -259,12 +272,12 @@
       </method>
     </configuration>
     <configuration name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="principle.MiniDuckSimulator" />
+      <option name="MAIN_CLASS_NAME" value="_01_strategy.MiniDuckSimulator" />
       <module name="HeadFirstDesignPattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="principle.*" />
+          <option name="PATTERN" value="_01_strategy.bean.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,6 +323,9 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED,SHOW_ANONYMOUS,SHOW_LAMBDA,VISIBILITY_SORTER,SHOW_PROPERTIES,SHOW_INTERFACES,ALPHA_COMPARATOR" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -324,38 +340,36 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Problems" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50053304" side_tool="true" weight="0.32962137" />
-      <window_info anchor="bottom" id="Messages" weight="0.32962137" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988864" visible="true" weight="0.25266525" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962137" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32962137" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.32962137" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Problems" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.32962137" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32962137" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Structure" order="6" sideWeight="0.5011136" visible="true" weight="0.25266525" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Flyable.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Flyable.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Iterable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
@@ -405,16 +419,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/springDemo/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-          <folding>
-            <element signature="e#196#197#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springDemo/Test2.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/annotation/Resource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -422,31 +427,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/springDemo/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/springDemo/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/springDemo/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springDemo/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/springDemo/Test1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/springDemo/Main.java" />
     <entry file="file://$PROJECT_DIR$/HeadFirstDesignPattern.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
@@ -461,14 +444,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/principle/behavior/FlyBehavior.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/_01_strategy/behavior/FlyBehavior.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/principle/behavior/FlyNoWay.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/_01_strategy/behavior/FlyNoWay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -479,7 +462,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/principle/behavior/FlyWithWings.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/_01_strategy/behavior/FlyWithWings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -490,21 +473,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/principle/bean/RedheadDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/principle/behavior/QuackBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/principle/behavior/Quack.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/_01_strategy/behavior/Quack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
@@ -515,7 +484,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/principle/behavior/Squeak.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/_01_strategy/behavior/Squeak.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -526,24 +495,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/principle/bean/ModelDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/principle/bean/MuteQuack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/principle/behavior/FlyRocketPowered.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/_01_strategy/behavior/FlyRocketPowered.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
@@ -554,37 +506,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/principle/MiniDuckSimulator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/_01_strategy/MiniDuckSimulator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        <state relative-caret-position="350">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/principle/bean/Duck.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/_01_strategy/bean/RedheadDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_01_strategy/bean/MuteQuack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_01_strategy/bean/MallardDuck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/principle/bean/MallardDuck.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/_01_strategy/bean/ModelDuck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        <state relative-caret-position="150">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_01_strategy/bean/SubDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_01_strategy/behavior/QuackBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_01_strategy/bean/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_02_Observer/WeatherData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
