@@ -1,7 +1,7 @@
-package _01_strategy.bean;
+package _01_Strategy.bean;
 
-import _01_strategy.behavior.FlyBehavior;
-import _01_strategy.behavior.QuackBehavior;
+import _01_Strategy.behavior.FlyBehavior;
+import _01_Strategy.behavior.QuackBehavior;
 
 public abstract  class Duck {
     FlyBehavior flyBehavior;        //不加权限修饰符的话，默认是包可见的 也就是必须要在一个包下面才行

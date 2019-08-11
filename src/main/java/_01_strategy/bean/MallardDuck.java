@@ -1,7 +1,7 @@
-package _01_strategy.bean;
+package _01_Strategy.bean;
 
-import _01_strategy.behavior.FlyWithWings;
-import _01_strategy.behavior.Quack;
+import _01_Strategy.behavior.FlyWithWings;
+import _01_Strategy.behavior.Quack;
 
 public class MallardDuck extends Duck {
     @Override

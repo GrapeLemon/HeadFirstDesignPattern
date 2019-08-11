@@ -1,6 +1,6 @@
-package _01_strategy.bean;
+package _01_Strategy.bean;
 
-import _01_strategy.behavior.QuackBehavior;
+import _01_Strategy.behavior.QuackBehavior;
 
 public class MuteQuack implements QuackBehavior {
     public void quack() {

@@ -1,9 +1,9 @@
-package _01_strategy;
+package _01_Strategy;
 
-import _01_strategy.bean.Duck;
-import _01_strategy.bean.MallardDuck;
-import _01_strategy.bean.ModelDuck;
-import _01_strategy.behavior.FlyRocketPowered;
+import _01_Strategy.bean.Duck;
+import _01_Strategy.bean.MallardDuck;
+import _01_Strategy.bean.ModelDuck;
+import _01_Strategy.behavior.FlyRocketPowered;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {
